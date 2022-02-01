@@ -1,0 +1,10 @@
+# Timeline to Becoming a Permanent Employee
+
+When you start, you’ll be considered to be in your probationary period for 3 months. A “probationary period” is a standard legal term required by labour law, but it’s really a time for us to ensure you are a good fit for our company and that you will be happy here as well. Benefits and full permanent status takes effect once we have decided you’ve successfully completed your probation period.
+
+After the first month, we’ll check in with you and see how things are going \(this will normally be led by a member of the executive\). We’ll want your feedback on how we can help you with your work and how we can help you to get to know the team. We’ll also get feedback from those working with you so we can offer you advice and help the team work better together. If it makes sense for your situation, we’ll help to set some goals that both you and us as a team can work on for the next two months \(for example: maybe you want more direction from our project manager, or we’ll ask if you could communicate more with your team on Slack\).
+
+At three months we’ll get together with you for your second check-in to make sure everything is working smoothly for both you and the Obvious team. If all’s good after three months, you are considered a full team member \(woohoo!\).
+
+Neither the goals we set nor the check-ins are designed as stressful challenges meant for you to prove your worth or your skills. We won’t grade you during a check-in and you won’t be blindsided by a surprise evaluation. Like you, we want you to succeed and to become a full member of the team. The check-ins are a chance for us to work together to help you integrate with the team and to thrive and be happy in your new job. Even if you’re struggling with a goal we set after three months \(maybe you’re a developer tasked with working on an legacy codebase and you’re struggling to contribute\), we may extend your probation period while we help find a way to overcome the difficulties you are encountering. This may include changes to your work, or Obvious changing to accommodate your personal way of doing things.
+
